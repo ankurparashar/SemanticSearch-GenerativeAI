@@ -23,7 +23,7 @@ Finding the right product online often feels harder than it should be — users 
 ## 📖 3rd Party Libraries
 Please refer to the following links for more information:
 - [ChromaDB](https://docs.trychroma.com/)
-- [PDFplumber](https://pypi.org/project/pdfplumber/0.1.2/)
+- [LangChain](https://www.langchain.com/)
 - [OpenAI](https://platform.openai.com/docs/)
 
 ## 💬 Contact

@@ -4,7 +4,11 @@ This project focuses on building a generative search system in the fashion domai
 # Problem Statment
 Finding the right product online often feels harder than it should be — users know what they want, but search engines don’t always understand what they mean. Our solution bridges that gap by interpreting natural language queries, grasping user intent, and delivering context-aware product recommendations that feel genuinely personalized. Instead of just matching words, it understands meaning, relevance, and reasoning behind every suggestion.
 
-# Contents
+## Contents
+- **[Architecture]**: (https://github.com/ankurparashar/SemanticSearch-GenerativeAI/blob/main/semantic_search_architecture.png)
+- **[Source Code]**(https://github.com/ankurparashar/SemanticSearch-GenerativeAI/blob/main/Semantic_Search_Ankur_Parashar.ipynb)
+- **[Documentation]**(https://github.com/ankurparashar/SemanticSearch-GenerativeAI/blob/main/Semantic_Search_Report.pdf)
+- **[Sample Data]**(https://github.com/ankurparashar/SemanticSearch-GenerativeAI/blob/main/fashion_ecommerce_dataset_600_records%20(1).csv)
 
 ## 🛠️ Tech Stack
 - **Language**: Python

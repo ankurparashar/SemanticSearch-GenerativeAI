@@ -18,7 +18,7 @@ Finding the right product online often feels harder than it should be — users 
 - **Generative Model**: GPT-3.5, GPT-4o-mini Models
 - **Tools used**: Collab Notebook
 
-## Installation
+## Installation and Run
 - Clone Repo: git clone [https://github.com/ankurparashar/HelpMateAI-GenerativeAI](https://github.com/ankurparashar/HelpMateAI-GenerativeAI)]
 - Navigate to the project directory: cd SemanticSearch-GenerativeAI
    -- Please note: OpenAI API keys are required for the project to function.
